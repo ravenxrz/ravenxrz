@@ -3,7 +3,7 @@
 菜硕 in hust.
 
 - 🌱 I’m currently doing research on kv store.
-- 🐱‍🏍 Use Java/C/C++, knowing a little about python.
+- 🐱‍🏍 Use Java/C/C++ and know a little about python.
 - 🔭 Maintain [RubberTranslator](https://github.com/ravenxrz/RubberTranslator).
 - 📫 Contact me at zhang.xingrui@foxmail.com.
 - 🚩 Read [my blog](https://www.ravenxrz.ink) for more information.
